@@ -1,0 +1,12 @@
+Classes and Objects
+Inheritence and Polymorphism
+Encapsulation
+Special methods
+Opening and reading files
+Writing to files
+Working with CSV and JSON files
+venv
+pip
+pip freeze
+Flask web framework
+Django web framework
